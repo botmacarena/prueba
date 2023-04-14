@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(31, 37, 106);
+    margin: 10; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    color: rgba(255, 182, 193, 0.422);
+    background-color: rgb(139, 0, 0);
+    font-size: 30px; 
+    font-weight: 400; 
+    font-style: oblique;
+    text-align: center;
+}
+
+.conteiner{
+    background-color: mediumvioletred;
+}
+
+#subtitulo-contacto{
+    color: bisque;
+}
+
+.subtitulo-mediano{
+    font-size: 15px; 
+    color: burlywood; 
+    background-color: olive;
+}
+
+footer {
+    color: darkseagreen; 
+    background-color: indianred;}
+
+.subtitulo-footer {
+    background-color: rgb(19, 59, 204); 
+    color: hsl(20, 52%, 72%);
+    font-family: 'Chivo Mono', monospace; 
+    font-size: 15px;}
+
+li{
+    background-color: blueviolet;}
+
+p{
+    text-align: justify;
+    line-height: 25px;
+}
